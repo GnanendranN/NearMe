@@ -316,10 +316,10 @@ The temple is maintained and administered by the Hindu Religious and Charitable 
 ```
 
 ## Output:
-![Output](./output.jpg)
+![Output](./screenshots/output.jpg)
 
 ### HTML VALIDATOR
-![HTML VALIDATOR](./valid.jpg)
+![HTML VALIDATOR](./screenshots/valid.jpg)
 
 ## Result:
 The program for implementing image map is executed successfully
