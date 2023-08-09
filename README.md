@@ -112,37 +112,21 @@ amb.html
 hab.html
 
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
 <title>Hotel</title>
-
 </head> 
-
 <body bgcolor="green">
-
 <h1 align="center">
-
 <font color="red"><b>Namakkal - Namakkal Fort</b></font>
-
 </h1>
-
 <h3 align="center"> 
-
 <font color="blue"><b></b></font>
-
 </h3>
-
 <hr size="3" color="red">
- 
 <p align="justify">
-
 <font face="Courier New" size="5">
-
 <b>
-
     Adyar Ananda Bhavan is a popular chain of casual dining restaurants that serves vegetarian food and outstanding sweets. 
     They have a very pleasant ambiance and their eclectic menu includes North Indian, Chinese and South Indian cuisines. 
     Their decent and bright interiors make the dining experience way more comfortable. 
@@ -150,150 +134,87 @@ hab.html
     Adyar Ananda Bhavan is located in Royapuram, North Chennai. 
     The nearest landmark of the place is G.K. Jain schools. 
     This light-on-pocket place is perfect for casual outings with family and friends
-
 </b>
-
 </font>
-
 </p>
-
 </body>
-
 </html>
 
 
 jai.html
 
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
 <title>Hotel</title>
-
 </head> 
-
 <body bgcolor="green">
-
 <h1 align="center">
-
 <font color="red"><b>Namakkal - Namakkal Fort</b></font>
-
 </h1>
-
 <h3 align="center"> 
-
 <font color="blue"><b></b></font>
-
 </h3>
-
 <hr size="3" color="red">
- 
 <p align="justify">
-
 <font face="Courier New" size="5">
-
 <b>
-
     JAI SMAART AQUAA SYSTEMS is a company that provides innovative solutions for water purification and management. 
     We are a team of experts in water technology, engineering, and environmental science, who are committed to delivering high-quality products and services to our customers. 
     Our vision is to make clean and safe water accessible to everyone, while preserving the natural resources and environment.
-
 </b>
-
 </font>
-
 </p>
-
 </body>
-
 </html>
 
 
 pets.html
 
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
 <title>Hotel</title>
-
 </head> 
-
 <body bgcolor="green">
-
 <h1 align="center">
-
 <font color="red"><b>Namakkal - Namakkal Fort</b></font>
-
 </h1>
-
 <h3 align="center"> 
-
 <font color="blue"><b></b></font>
-
 </h3>
-
 <hr size="3" color="red">
- 
 <p align="justify">
-
 <font face="Courier New" size="5">
-
 <b>
-
     Kutti Pets and Vet Services is a company that provides loving care and medical attention for your furry friends. 
     We are a team of passionate and professional veterinarians, groomers, trainers, and pet sitters, who are dedicated to making your pets happy and healthy. 
     Our mission is to offer the best possible service and experience for you and your pets.
-
 </b>
-
 </font>
-
 </p>
-
 </body>
-
 </html>
 
 
 sat.html
 
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
 <title>Temple</title>
-
 </head> 
-
 <body bgcolor="cyan">
-
 <h1 align="center">
-
 <font color="red"><b>Namakkal - Namakkal Fort</b></font>
-
 </h1>
-
 <h3 align="center"> 
-
 <font color="blue"><b>Namakkal Sree Anjaneyar Temple</b></font>
-
 </h3>
-
 <hr size="3" color="red">
-
 <p align="justify">
-
 <font face="Courier New" size="5">
-
 <b>
-
 Namakkal Anjaneyar temple is located in Namakkal, a town in Namakkal district in Tamil Nadu, India and is dedicated to the Hindu god Hanuman. 
 It is constructed in the Tamil style of architecture. 
 The legend of the temple is associated with Narasimha, an avatar of Hindu god Vishnu appearing for Hanuman and Lakshmi. 
@@ -302,15 +223,10 @@ The Agamam is followed by "Sri Vaikhanasam".
 The temple has a pillared hall leading to the sanctum. 
 Four daily rituals and many yearly festivals are held at the temple.
 The temple is maintained and administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu.
-
 </b>
-
 </font>
-
 </p>
-
 </body>
-
 </html>
 
 ```
